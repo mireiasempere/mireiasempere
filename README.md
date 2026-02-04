@@ -1,5 +1,5 @@
 ### Hello! 👋
-## I am a fourth-year Data Engineer Student in UAB.
+## I am a Data Engineer and a High-Performance Computer Systems master's student in Chalmers.
 I am a very determined and optimistic person. I'm very interested in the Data sector (data modeling, data analysis, predictive data...). I want to learn as many new technologies as possible.
 
 In the future, I envision myself acquiring even more knowledge, experience, and skills to tackle new challenges. I am committed to putting in all the effort to balance my studies and my work. 
